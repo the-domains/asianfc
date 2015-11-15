@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AsianFC]]></title>
+        <description><![CDATA[AsianFC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 Nov 2015 02:05:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ddfd634-f8ef-4669-9811-439d74df6121.jpg">]]></description>
+            <link>undefined9fbf3205-f633-47a2-a6e1-73a95c740d86/index.html</link>
+            <guid isPermaLink="false">9fbf3205-f633-47a2-a6e1-73a95c740d86</guid>
+            <pubDate>Sun, 15 Nov 2015 02:04:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
