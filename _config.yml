@@ -1,0 +1,23 @@
+name: AsianFC
+favicon: null
+layout_spectrum: 0.061346304370090365
+typography_spectrum: 0.8985116833355278
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.25206580478698015
+  lightness: 0.7764490849804133
+  saturation: 0.20230644172988832
+  rhythmicContrast: 0.5843187866266817
+purpose: []
